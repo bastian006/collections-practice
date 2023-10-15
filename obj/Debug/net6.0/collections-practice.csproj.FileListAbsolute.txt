@@ -1,0 +1,15 @@
+D:\CURSO SONDA C#\C#\ACTIVIDADES\collections-practice\bin\Debug\net6.0\collections-practice.exe
+D:\CURSO SONDA C#\C#\ACTIVIDADES\collections-practice\bin\Debug\net6.0\collections-practice.deps.json
+D:\CURSO SONDA C#\C#\ACTIVIDADES\collections-practice\bin\Debug\net6.0\collections-practice.runtimeconfig.json
+D:\CURSO SONDA C#\C#\ACTIVIDADES\collections-practice\bin\Debug\net6.0\collections-practice.dll
+D:\CURSO SONDA C#\C#\ACTIVIDADES\collections-practice\bin\Debug\net6.0\collections-practice.pdb
+D:\CURSO SONDA C#\C#\ACTIVIDADES\collections-practice\obj\Debug\net6.0\collections-practice.csproj.AssemblyReference.cache
+D:\CURSO SONDA C#\C#\ACTIVIDADES\collections-practice\obj\Debug\net6.0\collections-practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO SONDA C#\C#\ACTIVIDADES\collections-practice\obj\Debug\net6.0\collections-practice.AssemblyInfoInputs.cache
+D:\CURSO SONDA C#\C#\ACTIVIDADES\collections-practice\obj\Debug\net6.0\collections-practice.AssemblyInfo.cs
+D:\CURSO SONDA C#\C#\ACTIVIDADES\collections-practice\obj\Debug\net6.0\collections-practice.csproj.CoreCompileInputs.cache
+D:\CURSO SONDA C#\C#\ACTIVIDADES\collections-practice\obj\Debug\net6.0\collections-practice.dll
+D:\CURSO SONDA C#\C#\ACTIVIDADES\collections-practice\obj\Debug\net6.0\refint\collections-practice.dll
+D:\CURSO SONDA C#\C#\ACTIVIDADES\collections-practice\obj\Debug\net6.0\collections-practice.pdb
+D:\CURSO SONDA C#\C#\ACTIVIDADES\collections-practice\obj\Debug\net6.0\collections-practice.genruntimeconfig.cache
+D:\CURSO SONDA C#\C#\ACTIVIDADES\collections-practice\obj\Debug\net6.0\ref\collections-practice.dll
